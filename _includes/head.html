@@ -1,0 +1,19 @@
+<![CDATA[<head>
+  <link rel="icon" href="{{ site.baseurl }}/favicon.ico" type="image/x-icon">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <meta name="description" content="{{ page.description | default: site.description }}">
+  {% if page.canonical_url %}
+  <link rel="canonical" href="{{ page.canonical_url }}">
+  {% endif %}
+  {{ page.custom_head }}
+  <link rel="stylesheet" href="{{ site.baseurl }}/style/stytempl.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}/style/menu-sandwich.css">
+  <style type="text/css">
+    .Style3 {
+      font-size: 24px;
+      font-weight: bold;
+    }
+  </style>
+</head>]]>

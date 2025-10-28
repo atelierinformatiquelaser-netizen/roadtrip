@@ -1,0 +1,25 @@
+---
+layout: default
+title: Mon Blog Personnel de Voyages et Projets
+description: Mon blog de voyage en camping car - carnets de route et photos de road trip. Je partage mes itinéraires, astuces d'organisation et bonnes adresses !
+canonical_url: http://beaubonbien.free.fr/
+custom_head: |
+  <link rel="stylesheet" href="{{ site.baseurl }}/style/textedefil.css">
+---
+
+<h1 data-pm-slice="1 1 []">Bienvenue sur mon blog personnel</h1>
+
+<p>Ce blog est mon espace privé où je consigne mes expériences, réflexions et projets. Il n'est pas destiné au grand public, et son contenu est strictement personnel. Les informations partagées ici me servent de référence et ne sont en aucun cas destinées à un usage commercial ou public.</p>
+
+<h2>À propos</h2>
+<p>Vous trouverez ici des notes de voyage, des idées de projets, des tests et analyses sur divers sujets qui m'intéressent. Ce blog évolue au fil du temps, en fonction de mes envies et de mes découvertes.</p>
+
+<h3>Accès et droits</h3>
+<p>L'accès à ce blog est restreint et son contenu est protégé. Tous les droits sont réservés, et aucune reproduction ou diffusion n'est autorisée sans mon accord explicite.</p>
+<p>Merci de respecter cet espace personnel et de ne pas partager son contenu sans autorisation.</p>
+
+<div class="messagedefilant">
+  <div data-text="Hé, vous avez oublié le bandeau des cookies ! Pas de panique, sur notre site, nous sommes respectueux de votre vie privée. Aucun traqueur sournois ici, promis ! Les seuls cookies que vous pourriez trouver sont ceux nécessaires au fonctionnement du site. Et nous les gardons bien au chaud ! Vous n'avez pas besoin de consentir à l'utilisation de cookies pour naviguer sur ce site web.Vos données personnelles ne sont pas collectées ni stockées. Vous pouvez naviguer en toute sécurité et en toute confidentialité.">
+    <p><span>Hé, vous avez oublié le bandeau des cookies ! Pas de panique, sur notre site, nous sommes respectueux de votre vie privée. Aucun traqueur sournois ici, promis ! Les seuls cookies que vous pourriez trouver sont ceux nécessaires au fonctionnement du site. Et nous les gardons bien au chaud ! Vous n'avez pas besoin de consentir à l'utilisation de cookies pour naviguer sur ce site web.Vos données personnelles ne sont pas collectées ni stockées. Vous pouvez naviguer en toute sécurité et en toute confidentialité.</span></p>
+  </div>
+</div>

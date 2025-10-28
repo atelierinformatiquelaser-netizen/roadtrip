@@ -1,0 +1,25 @@
+<![CDATA[<header> 
+  <p align="center" class="Style3">{{ site.title }}</p>
+</header>
+<div class="wrapper">
+    <label class="minimal-menu-button" for="mobile-nav">Menu</label>
+    <input class="minimal-menu-button" type="checkbox" id="mobile-nav" name="mobile-nav">
+    <div class="minimal-menu clr-blue">
+        <ul>
+            <li><a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/images/logo/camping-car-logo.webp" alt="logo du blog de camping car" width="50%" height="50%" ></a></li>
+            <li class="submenu">
+                <a href="#">Projet de voyages</a>
+                <label for="show-submenu-1">Afficher le sous-menu</label>
+                <input name="show-submenu-1" type="checkbox" class="show-submenu" id="show-submenu-1" value="show-submenu-1">
+                <ul>
+                    <li><a href="{{ site.baseurl }}/page/itineraire-espagne-portugal">Espagne Portugal</a></li>
+                    <li><a href="{{ site.baseurl }}/page/beaune-alsace-ouest">Beaune - Alsace - Ouest</a></li>
+                    <li><a href="{{ site.baseurl }}/page/occitanie">Occitanie</a></li>
+                    <li><a href="{{ site.baseurl }}/page/france.sudest-est-ouest">France Sud/Est - Est - Ouest</a></li>
+                    <li><a href="{{ site.baseurl }}/page/france-s-e-so">France Sud - Est - Sud/Ouest</a></li>
+                </ul>
+            </li>
+            <!-- Autres menus similaires -->
+        </ul>
+    </div>
+</div>]]>

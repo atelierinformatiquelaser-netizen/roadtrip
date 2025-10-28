@@ -1,0 +1,17 @@
+title: Mon Road Trip en Camping-Car
+description: Blog personnel de voyages en camping-car
+baseurl: "/roadtrip"
+url: "https://atelierinformatiquelaser-netizen.github.io"
+permalink: pretty
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+
+exclude:
+  - Templates/
+  - README.md
+  - .gitignore
